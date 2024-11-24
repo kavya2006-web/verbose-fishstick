@@ -1,3 +1,4 @@
 # verbose-fishstick
-this is my first repository
-author-kavya nair
+This is my first repository
+<br>
+Author-Kavya Nair
